@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system temporary files
+.DS_Store
+Thumbs.db
+
+# Local environment configuration files (Sensitive Information)
+.env
+.flaskenv
+
+# IDE and editor configurations
+.vscode/
+.idea/
+
+# Firebase private key file
+firebase-key.json

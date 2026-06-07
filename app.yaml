@@ -1,5 +1,5 @@
 # app.yaml
-runtime: python39
+runtime: python312
 
 env_variables:
   SECRET_KEY: "your-secret-key-here-change-this-in-production"
